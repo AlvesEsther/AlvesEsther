@@ -1,7 +1,6 @@
 ### Hello! Welcome to my Github profile. 👋
 
-## My name is Esther Rezende and my nickname is Scorpionx!
-
+## My name is Esther Rezende!
 
 
 
