@@ -1,6 +1,5 @@
-### Hello! Welcome to my Github profile. 👋
-
-## My name is Esther Rezende!
+### Hello! Welcome to my Github profile. 
+My name is Esther Rezende!👋 
 
 
 
